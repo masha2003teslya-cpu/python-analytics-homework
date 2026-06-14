@@ -1,0 +1,236 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"ALL\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a5cd7145-f17f-48dd-bea3-e4096b90c9cc\" name=\"Changes\" comment=\"feature/update-sales-rejected\">\r\n      <change beforePath=\"$PROJECT_DIR$/analysis.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/analysis.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"feature/update-sales-accepted\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"masha2003teslya-cpu\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/masha2003teslya-cpu/python-analytics-homework.git\",\r\n    \"accountId\": \"ff2df438-7e38-40be-857f-bfa6e6791fab\"\r\n  }\r\n}]]></component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/analysis.py\" root0=\"SKIP_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"NextEditCompletionFeaturesState\">\r\n    <decayedCancelled>\r\n      <entry key=\"MS100\" value=\"1.3138840317638065\" />\r\n      <entry key=\"MS500\" value=\"2.368309037859648\" />\r\n      <entry key=\"S2\" value=\"2.8181387318093507\" />\r\n      <entry key=\"S5\" value=\"2.9251007717415902\" />\r\n      <entry key=\"S10\" value=\"2.9621814948278735\" />\r\n      <entry key=\"S30\" value=\"2.9873109290199134\" />\r\n      <entry key=\"S60\" value=\"2.9936450432075583\" />\r\n      <entry key=\"M2\" value=\"2.996819911871346\" />\r\n      <entry key=\"M5\" value=\"2.998727337847799\" />\r\n      <entry key=\"M10\" value=\"2.999363564393327\" />\r\n      <entry key=\"M15\" value=\"2.999575686363044\" />\r\n      <entry key=\"M30\" value=\"2.9997878315643955\" />\r\n      <entry key=\"H1\" value=\"2.999893912877752\" />\r\n      <entry key=\"H2\" value=\"2.999946955712744\" />\r\n      <entry key=\"H4\" value=\"2.9999734776748364\" />\r\n      <entry key=\"D1\" value=\"2.9999955795872593\" />\r\n      <entry key=\"W1\" value=\"2.9999993685118485\" />\r\n    </decayedCancelled>\r\n    <decayedSelected>\r\n      <entry key=\"MS100\" value=\"0.0\" />\r\n      <entry key=\"MS500\" value=\"0.0\" />\r\n      <entry key=\"S2\" value=\"0.0\" />\r\n      <entry key=\"S5\" value=\"0.0\" />\r\n      <entry key=\"S10\" value=\"0.0\" />\r\n      <entry key=\"S30\" value=\"0.0\" />\r\n      <entry key=\"S60\" value=\"0.0\" />\r\n      <entry key=\"M2\" value=\"0.0\" />\r\n      <entry key=\"M5\" value=\"0.0\" />\r\n      <entry key=\"M10\" value=\"0.0\" />\r\n      <entry key=\"M15\" value=\"0.0\" />\r\n      <entry key=\"M30\" value=\"0.0\" />\r\n      <entry key=\"H1\" value=\"0.0\" />\r\n      <entry key=\"H2\" value=\"0.0\" />\r\n      <entry key=\"H4\" value=\"0.0\" />\r\n      <entry key=\"D1\" value=\"0.0\" />\r\n      <entry key=\"W1\" value=\"0.0\" />\r\n    </decayedSelected>\r\n    <decayedShown>\r\n      <entry key=\"MS100\" value=\"1.232330002564283\" />\r\n      <entry key=\"MS500\" value=\"2.289612378287266\" />\r\n      <entry key=\"S2\" value=\"2.790381976076666\" />\r\n      <entry key=\"S5\" value=\"2.9131942583725063\" />\r\n      <entry key=\"S10\" value=\"2.9560874751374695\" />\r\n      <entry key=\"S30\" value=\"2.9852476543818693\" />\r\n      <entry key=\"S60\" value=\"2.9926093725346563\" />\r\n      <entry key=\"M2\" value=\"2.9963010650591073\" />\r\n      <entry key=\"M5\" value=\"2.998519555966128\" />\r\n      <entry key=\"M10\" value=\"2.9992596328927705\" />\r\n      <entry key=\"M15\" value=\"2.999506389680245\" />\r\n      <entry key=\"M30\" value=\"2.999753178714493\" />\r\n      <entry key=\"H1\" value=\"2.9998765853255582\" />\r\n      <entry key=\"H2\" value=\"2.999938291654822\" />\r\n      <entry key=\"H4\" value=\"2.9999691455754176\" />\r\n      <entry key=\"D1\" value=\"2.999994857560903\" />\r\n      <entry key=\"W1\" value=\"2.9999992653649863\" />\r\n    </decayedShown>\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3F5PnuxHUmqqIijYtxmqUoNnhOp\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"Python.analysis.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"to.speed.mode.migration.done\": \"true\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a5cd7145-f17f-48dd-bea3-e4096b90c9cc\" name=\"Changes\" comment=\"\" />\r\n      <created>1781362127635</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1781362127635</updated>\r\n      <workItem from=\"1781362128806\" duration=\"359000\" />\r\n      <workItem from=\"1781362557860\" duration=\"563000\" />\r\n      <workItem from=\"1781363213191\" duration=\"1420000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"added analysis file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1781363351112</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1781363351112</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"update Lviv sales to 950\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1781363556342</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1781363556342</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"feature/update-sales-rejected\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1781364489018</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1781364489018</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"added analysis file\" />\r\n    <MESSAGE value=\"update Lviv sales to 950\" />\r\n    <MESSAGE value=\"feature/update-sales-rejected\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"feature/update-sales-rejected\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/python_analytics_homework$analysis.coverage\" NAME=\"analysis Coverage Results\" MODIFIED=\"1781364059490\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a72d9a74584f1544d6ac40e3a4ba4a504ef9b0e3)
++++ b/.idea/workspace.xml	(date 1781436057216)
+@@ -4,21 +4,22 @@
+     <option name="autoReloadType" value="ALL" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a5cd7145-f17f-48dd-bea3-e4096b90c9cc" name="Changes" comment="feature/update-sales-rejected">
++    <list default="true" id="a5cd7145-f17f-48dd-bea3-e4096b90c9cc" name="Changes" comment="add average sales comment">
++      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/pyProjectModel.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/python-analytics-homework.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+-  </component>
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+@@ -26,6 +27,7 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="MIXED" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+   "lastFilter": {
+@@ -39,76 +41,11 @@
+     "accountId": "ff2df438-7e38-40be-857f-bfa6e6791fab"
+   }
+ }]]></component>
+-  <component name="HighlightingSettingsPerFile">
+-    <setting file="file://$PROJECT_DIR$/analysis.py" root0="SKIP_HIGHLIGHTING" />
+-  </component>
+-  <component name="NextEditCompletionFeaturesState">
+-    <decayedCancelled>
+-      <entry key="MS100" value="1.3138840317638065" />
+-      <entry key="MS500" value="2.368309037859648" />
+-      <entry key="S2" value="2.8181387318093507" />
+-      <entry key="S5" value="2.9251007717415902" />
+-      <entry key="S10" value="2.9621814948278735" />
+-      <entry key="S30" value="2.9873109290199134" />
+-      <entry key="S60" value="2.9936450432075583" />
+-      <entry key="M2" value="2.996819911871346" />
+-      <entry key="M5" value="2.998727337847799" />
+-      <entry key="M10" value="2.999363564393327" />
+-      <entry key="M15" value="2.999575686363044" />
+-      <entry key="M30" value="2.9997878315643955" />
+-      <entry key="H1" value="2.999893912877752" />
+-      <entry key="H2" value="2.999946955712744" />
+-      <entry key="H4" value="2.9999734776748364" />
+-      <entry key="D1" value="2.9999955795872593" />
+-      <entry key="W1" value="2.9999993685118485" />
+-    </decayedCancelled>
+-    <decayedSelected>
+-      <entry key="MS100" value="0.0" />
+-      <entry key="MS500" value="0.0" />
+-      <entry key="S2" value="0.0" />
+-      <entry key="S5" value="0.0" />
+-      <entry key="S10" value="0.0" />
+-      <entry key="S30" value="0.0" />
+-      <entry key="S60" value="0.0" />
+-      <entry key="M2" value="0.0" />
+-      <entry key="M5" value="0.0" />
+-      <entry key="M10" value="0.0" />
+-      <entry key="M15" value="0.0" />
+-      <entry key="M30" value="0.0" />
+-      <entry key="H1" value="0.0" />
+-      <entry key="H2" value="0.0" />
+-      <entry key="H4" value="0.0" />
+-      <entry key="D1" value="0.0" />
+-      <entry key="W1" value="0.0" />
+-    </decayedSelected>
+-    <decayedShown>
+-      <entry key="MS100" value="1.232330002564283" />
+-      <entry key="MS500" value="2.289612378287266" />
+-      <entry key="S2" value="2.790381976076666" />
+-      <entry key="S5" value="2.9131942583725063" />
+-      <entry key="S10" value="2.9560874751374695" />
+-      <entry key="S30" value="2.9852476543818693" />
+-      <entry key="S60" value="2.9926093725346563" />
+-      <entry key="M2" value="2.9963010650591073" />
+-      <entry key="M5" value="2.998519555966128" />
+-      <entry key="M10" value="2.9992596328927705" />
+-      <entry key="M15" value="2.999506389680245" />
+-      <entry key="M30" value="2.999753178714493" />
+-      <entry key="H1" value="2.9998765853255582" />
+-      <entry key="H2" value="2.999938291654822" />
+-      <entry key="H4" value="2.9999691455754176" />
+-      <entry key="D1" value="2.999994857560903" />
+-      <entry key="W1" value="2.9999992653649863" />
+-    </decayedShown>
+-  </component>
+-  <component name="ProblemsViewState">
+-    <option name="selectedTabId" value="CurrentFile" />
+-  </component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 3,
+-  &quot;fromUser&quot;: false
+-}</component>
+-  <component name="ProjectId" id="3F5PnuxHUmqqIijYtxmqUoNnhOp" />
++  <component name="ProjectColorInfo"><![CDATA[{
++  "associatedIndex": 4,
++  "fromUser": false
++}]]></component>
++  <component name="ProjectId" id="3F7oKgFskSZExEs99m42cD8EysP" />
+   <component name="ProjectLevelVcsManager">
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+@@ -118,23 +55,20 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "Python.analysis.executor": "Run",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+     "RunOnceActivity.git.unshallow": "true",
+     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+     "codeWithMe.voiceChat.enabledByDefault": "false",
+     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+     "git-widget-placeholder": "main",
+-    "ignore.virus.scanning.warn.message": "true",
+     "junie.onboarding.icon.badge.shown": "true",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+     "node.js.selected.package.tslint": "(autodetect)",
+     "nodejs_package_manager_path": "npm",
++    "settings.editor.selected.configurable": "preferences.lookFeel",
+     "to.speed.mode.migration.done": "true",
+     "vue.rearranger.settings.migration": "true"
+   }
+@@ -148,40 +82,13 @@
+   </component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="a5cd7145-f17f-48dd-bea3-e4096b90c9cc" name="Changes" comment="" />
+-      <created>1781362127635</created>
++      <changelist id="a5cd7145-f17f-48dd-bea3-e4096b90c9cc" name="Changes" comment="add average sales comment" />
++      <created>1781435416266</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1781362127635</updated>
+-      <workItem from="1781362128806" duration="359000" />
+-      <workItem from="1781362557860" duration="563000" />
+-      <workItem from="1781363213191" duration="1420000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="added analysis file">
+-      <option name="closed" value="true" />
+-      <created>1781363351112</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1781363351112</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="update Lviv sales to 950">
+-      <option name="closed" value="true" />
+-      <created>1781363556342</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1781363556342</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="feature/update-sales-rejected">
+-      <option name="closed" value="true" />
+-      <created>1781364489018</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1781364489018</updated>
++      <updated>1781435416266</updated>
++      <workItem from="1781435422169" duration="630000" />
+     </task>
+-    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -192,31 +99,13 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State>
+-              <option name="FILTERS">
+-                <map>
+-                  <entry key="branch">
+-                    <value>
+-                      <list>
+-                        <option value="main" />
+-                      </list>
+-                    </value>
+-                  </entry>
+-                </map>
+-              </option>
+-            </State>
++            <State />
+           </value>
+         </entry>
+       </map>
+     </option>
+   </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="added analysis file" />
+-    <MESSAGE value="update Lviv sales to 950" />
+-    <MESSAGE value="feature/update-sales-rejected" />
+-    <option name="LAST_COMMIT_MESSAGE" value="feature/update-sales-rejected" />
+-  </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-    <SUITE FILE_PATH="coverage/python_analytics_homework$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1781364059490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++    <SUITE FILE_PATH="coverage/python_analytics_homework$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1781367188400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+   </component>
+ </project>
+\ No newline at end of file
